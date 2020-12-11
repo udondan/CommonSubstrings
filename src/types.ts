@@ -11,5 +11,3 @@ export type Substring = {
 	name: string,
 	weight: number
 }
-
-module.exports = Node;
